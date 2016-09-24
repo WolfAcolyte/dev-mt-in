@@ -1,0 +1,21 @@
+
+
+
+
+.mainHeader{
+    width: 100%;
+    text-align: center;
+}
+
+
+
+.titleBarContainer{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+.titleBar {
+    
+}
